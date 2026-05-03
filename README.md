@@ -49,5 +49,5 @@ See requirements.txt
 
 ## Citation
 If you use this work please cite:
-[Your Name] (2025). Alzheimer's Disease Classification 
+Muhammad Faisal Abrar (2026). Alzheimer's Disease Classification 
 using Neural ODE and ResNet-18. GitHub.
